@@ -1,3 +1,4 @@
+//https://github.com/shellingfordly/jsbox
 let url = $clipboard.link
 if(!url){$ui.alert("无链接");}
 $ui.render({
