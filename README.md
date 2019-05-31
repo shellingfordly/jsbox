@@ -8,8 +8,8 @@
 
 ## 表情包
 
-* 原码来自
-<br/>
+* 原码来自<br/>
+
 [CodedArtist](https://github.com/CodedArtist/JSBox/tree/master/斗图)
 
 * 增加返回退出按键
