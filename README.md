@@ -12,10 +12,8 @@
 
 ## 表情包
 * 原码来自<br/>
-
 [CodedArtist](https://github.com/CodedArtist/JSBox/tree/master/斗图)
-
-* 增加返回退出按键
+* 增加返回退出按键<br/>
 [点击安装 键盘搜索](https://xteko.com/redir?url=https://github.com/shellingfordly/jsbox/blob/master/表情包.js)
 <br/>
 <img src="http://ww2.sinaimg.cn/large/006tNc79gy1g3kpnjvvejj30hs0vkgos.jpg" width="200" />
