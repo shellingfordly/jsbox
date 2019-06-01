@@ -20,3 +20,5 @@
 
 ## 瓯江教务系统
 [点击安装 瓯江教务系统](https://xteko.com/redir?url=https://github.com/shellingfordly/jsbox/blob/master/%E7%93%AF%E6%B1%9F%E6%95%99%E5%8A%A1%E7%B3%BB%E7%BB%9F.js)
+<br/>
+<img src="http://ww1.sinaimg.cn/large/006tNc79gy1g3lvotst8hj30hs0vkmxv.jpg" width="200" />
